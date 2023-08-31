@@ -1,2 +1,2 @@
 # Research Project
-In essence, my goal is to help increase funding for the fine arts in the Chicagoland area by creating an improved website for the Music Institute of Chicago that will help attract donors and fundraise for their annual gala.
+In essence, my goal is to help increase funding for the fine arts in the Chicagoland area by creating an improved website for the Music Institute of Chicago that will help attract donors and fundraise for their annual gala. I will use ChatGPT to help generate code elements, and I plan to take some HTML and CSS courses on CodeAcademy to help me code. My website with hopefully be completed by the beginning of December.
