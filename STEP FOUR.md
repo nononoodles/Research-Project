@@ -6,7 +6,7 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 - I completed 1/6 lessons in the Learn HTML course of Codecademy. I completed the Introduction to HTML lesson, and I am around 16% through the course.
 
 ## 9/8
-- I completed 2/6 lessons in the Learn HTML course of Codecademy
+- I completed 2/6 lessons in the Learn HTML course of Codecademy. I completed the HTML Document Standards lessons, and I am around 33% through the course.
 
 ## 9/7 
 - []
