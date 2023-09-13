@@ -10,8 +10,10 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 
 ## 9/11
 - I completed 3/6 lessons in the Learn HTML course of Codecademy. I completed the HTML Tables lesson, and I am around 50% through the course.
+- ![image](https://github.com/nononoodles/Research-Project/assets/142824877/c8258906-c41c-47bd-84ad-04d0daba09f0)
+
 
 # 9/13
 - I completed 4/6 lessons in the Learn HTML course of Codecademy. I completed the HTML Forms lesson, and I am around 66% through the course.
-![image](https://github.com/nononoodles/Research-Project/assets/142824877/00e282b9-5313-4395-a967-bd3310367efd)
+- ![image](https://github.com/nononoodles/Research-Project/assets/142824877/00e282b9-5313-4395-a967-bd3310367efd)
 
