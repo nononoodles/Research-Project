@@ -20,3 +20,8 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 - I completed 5/6 lessons in the Learn HTML course of Codecademy. I completed the HTML Form Validation lesson, and I am around 83% through the course.
 - ![image](https://github.com/nononoodles/Research-Project/assets/142824877/199f9670-3f95-4373-b46f-7e72e4f2ac56)
 
+## 9/24
+- I completed 6/6 lessons in the Learn HTML course of Codecademy. I completed the HTML Semantic HRML lesson, and I am 100% through the course.
+- ![image](https://github.com/nononoodles/Research-Project/assets/142824877/fe9f06d9-b997-477e-b87f-9eee77559327)
+
+
