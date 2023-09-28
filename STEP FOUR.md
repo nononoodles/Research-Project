@@ -24,4 +24,7 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 - I completed 6/6 lessons in the Learn HTML course of Codecademy. I completed the HTML Semantic HRML lesson, and I am 100% through the course.
 - ![image](https://github.com/nononoodles/Research-Project/assets/142824877/fe9f06d9-b997-477e-b87f-9eee77559327)
 
+## 9/28
+- I started making the skeleton of my website in Replit. I created three files of HTML for different pages of the website: the home page, the impact report page, and the gala page.
+
 
