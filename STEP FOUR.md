@@ -27,4 +27,7 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 ## 9/28
 - I started making the skeleton of my website in Replit. I created three files of HTML for different pages of the website: the home page, the impact report page, and the gala page.
 
+## 9/29
+- I finished writing the information for all the pages of the website.
+
 
