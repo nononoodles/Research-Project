@@ -30,7 +30,7 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 ## 9/29
 - I finished writing the information for all the pages of the website.
 
-## 10/11
+## 10/3
 - I completed 1/8 lessons in the Learn CSS course of Codecademy. I completed the Setup and Syntax lesson, and I am 10% through the course.
 - ![image](https://github.com/nononoodles/Research-Project/assets/142824877/a68009e7-6ae6-43d0-bc1d-5679122cec43)
 
