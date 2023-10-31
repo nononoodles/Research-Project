@@ -50,4 +50,6 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 - I completed 5/8 lessons in the Learn CSS course of Codecademy. I completed the Changing the Box Model lesson, and I am 50% through the course.
 - ![image](https://github.com/nononoodles/Research-Project/assets/142824877/7652d36a-d23d-4ff4-9e52-744aad63368b)
 
+## 10/31
+- I completed 6/8 lessons in the Learn CSS course of Codecademy. 
 
