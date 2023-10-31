@@ -42,4 +42,7 @@ I intend to document my progress on GitHub everyday. For documentation of code I
 - I completed 3/8 lessons in the Learn CSS course of Codecademy. I completed the Visual Rules lesson, and I am 30% through the course.
 - ![image](https://github.com/nononoodles/Research-Project/assets/142824877/beb194ea-8bf4-4a8a-886a-d7aa71046931)
 
+## 10/27
+- I completed 4/8 lessons in the Learn CSS course of Codecademy. I completed the Box Model lesson, and I am 40% through the course.
+- ![image](https://github.com/nononoodles/Research-Project/assets/142824877/04e5f0b0-9ef9-4d1f-85bd-2bb3c55faa78)
 
